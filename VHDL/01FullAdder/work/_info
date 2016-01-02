@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Amritpal/Google Drive/Projects/MyDigitalCircuits/VHDL/01FullAdder
+Efull_adder
+Z1 w1451754002
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8full_adder.vhd
+Z6 Ffull_adder.vhd
+l0
+L5
+V]6`H5KGlZ9Hc:<O<3TgZn2
+!s100 8gfKK3L_CgncWUZh]9B3U0
+Z7 OV;C;10.4b;61
+32
+Z8 !s110 1451754021
+!i10b 1
+Z9 !s108 1451754021.000000
+Z10 !s90 -reportprogress|300|full_adder.vhd|full_adder_tst.vhd|
+Z11 !s107 full_adder_tst.vhd|full_adder.vhd|
+!i113 1
+Z12 tExplicit 1
+Adataflow
+R2
+R3
+R4
+Z13 DEx4 work 10 full_adder 0 22 ]6`H5KGlZ9Hc:<O<3TgZn2
+l11
+L10
+V3FlRg]0>Igkj>IC2S2`A<3
+!s100 ;HTk@U90k:?`VcDkLljYG0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Efull_adder_tst
+Z14 w1451753788
+R2
+R3
+R4
+R0
+Z15 8full_adder_tst.vhd
+Z16 Ffull_adder_tst.vhd
+l0
+L9
+V9G]3]lZ]2Ngf3;1U>WQgJ2
+!s100 _Th4BI01zk::c?APbcIf_0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Afull_adder_tst_arch
+R2
+R3
+R4
+Z17 DEx4 work 14 full_adder_tst 0 22 9G]3]lZ]2Ngf3;1U>WQgJ2
+l41
+L16
+Z18 VQAPa5]S?1L38g880=eEl62
+Z19 !s100 M4A2:jgPNo3;=nFZ8VdIl1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
